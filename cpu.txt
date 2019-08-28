@@ -60,7 +60,6 @@
     { "low_power_mode" : true, "no_prefetch" : true, "asm" : "auto", "affine_to_cpu" : 19 },
     { "low_power_mode" : true, "no_prefetch" : true, "asm" : "auto", "affine_to_cpu" : 20 },
     { "low_power_mode" : true, "no_prefetch" : true, "asm" : "auto", "affine_to_cpu" : 21 },
-    { "low_power_mode" : true, "no_prefetch" : true, "asm" : "auto", "affine_to_cpu" : 22 },
-    { "low_power_mode" : true, "no_prefetch" : true, "asm" : "auto", "affine_to_cpu" : 23 },	
+    { "low_power_mode" : true, "no_prefetch" : true, "asm" : "auto", "affine_to_cpu" : 22 },	
 	
 ],
